@@ -13,7 +13,7 @@ miembro de lo [[Caballeros de la Mesa Redonda]]
 > **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa de Pelles  
 > **Religión:** Custodio del Grial  
-> **Arcano Mayor:** La Justicia  
+> **Arcano Mayor:** La Templanza    
 ---
 ## 🕊️ Historia
 

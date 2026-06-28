@@ -8,7 +8,7 @@ Cada Arcanidad influye en la naturaleza, los sueños, el destino y hasta en el c
 ## 📊 Estructura del Año Aicriano
 
 - **22 Arcanidades (meses)**, cada una con **22 días**.
-- **22 × 21 = 484 días** en un año estándar.
+- **22 × 22 = 484 días** en un año estándar.
 - Al final del ciclo anual existe un periodo especial de **3 días** llamado **El Umbral**, que no pertenece a ninguna Arcanidad.
 
 **→ Total: 487 días por año aicriano.**
@@ -20,11 +20,11 @@ Este numero es considerado sagrado debido a que es una cifra indivisible, como u
 
 Cada **Arcanidad** se divide en:
 
-- **3 semanas de 7 días** (21 días totales)
+- **3 semanas de 7 días** (22 días totales)
 
 ### Nomenclatura de los días
 
-Los días se numeran del **primero al vigésimo primero** dentro de cada Arcanidad. Por ejemplo:
+Los días se numeran del **cero al vigésimo primero** dentro de cada Arcanidad. Por ejemplo:
 
 - **"El decimoquinto día del Florecimiento"** (día 15 de la Arcanidad III: La Emperatriz)
 - **"El vigésimo primer día de Sombras"** (último día de la Arcanidad XVIII: La Luna)

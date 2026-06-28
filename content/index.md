@@ -45,7 +45,7 @@ Más allá de la hidrofobia, Aicrum se caracteriza por una **realidad maleable**
     
 - **Las supersticiones tienen poder:** Si la tradición dice que no debes silbar de noche, es porque **realmente** invocarás algo peligroso.
     
-- **Los arquetipos son fuerzas reales:** El Héroe, el Traidor, el Sabio... no son solo roles literarios, sino **patrones cósmicos** que pueden poseer o guiar a las personas.
+- **Los arquetipos son fuerzas reales:** La Justicia, El Emperador, El Loco, Los Enamorados... son **arquetipos** que pueden poseer o guiar a las personas.
     
 - **La memoria colectiva da forma al mundo:** Una historia olvidada no desaparece; se hunde en **el Sustrato**, esperando ser recordada. Una historia repetida mil veces puede manifestarse físicamente.
 
@@ -82,18 +82,6 @@ Aicrum no es solo un plano material. Existen **múltiples dimensiones** que se e
 - **La Trama:** El plano de las posibilidades no realizadas.
 
 → _Ver: [[Dimensiones]]_
-
----
-## ⚔️ Ambientación y Tono
-
-Aicrum es un mundo de:
-
-- **Fantasía oscura con toques steampunk:** Magia antigua coexiste con tecnología incipiente.
-- **Horror folclórico:** Las supersticiones son reales y letales.
-- **Drama épico:** Grandes historias de honor, traición, amor y sacrificio.
-- **Misterio cósmico:** La verdadera naturaleza del mundo está velada en mitos y fragmentos de verdad.
-
-Es un lugar donde **cada decisión tiene peso narrativo**, donde **las palabras tienen poder**, y donde **el pasado nunca muere realmente**.
 
 ---
 ## 🎭 Para los Jugadores

@@ -1,7 +1,7 @@
 
 En **Aicrum**, la realidad no es un conjunto de leyes físicas inmutables, sino un tapiz tejido con historias. Aquellos que comprenden esta verdad dejan de ser meros espectadores para convertirse en protagonistas, capaces de imponer su voluntad sobre el mundo a través de su propia historia.
 
-## 1. El Vínculo con el Arcano
+## 🎴El Vínculo con el Arcano
 
 Al nacer o tras un evento transformador, cada individuo que aspira a la grandeza queda ligado a uno de los **22 Arcanos Mayores**. Este Arcano define el "color" de tu alma y la naturaleza de tus hazañas.
 
@@ -10,7 +10,7 @@ Al nacer o tras un evento transformador, cada individuo que aspira a la grandeza
 - **Evolución por Fábulas:** A medida que realizas actos significativos, tu leyenda crece. Estas "Fábulas" se graban en tu ser, permitiéndote recurrir a tus éxitos pasados para superar desafíos presentes.
     
 
-## 2. Los Hilos
+## 🪡Los Hilos
 
 Los **Hilos** son la medida de tu influencia sobre la gran historia de Aicrum. Son la manifestación de tu capacidad de reclamar el protagonismo en la realidad.
 
@@ -18,7 +18,7 @@ Los **Hilos** son la medida de tu influencia sobre la gran historia de Aicrum. S
 	
 - **Tirar de los hilos:** Puedes consumir **hilos de historia** para asegurar el éxito en acciones imposibles, realizar proezas sobrehumanas o invocar la esencia de tus Fábulas pasadas.
 
-## 3. El Sistema de Juramentos
+## 🎭El Sistema de Juramentos
 
 En Aicrum, la palabra tiene un poder real. Un **Juramento** es un pacto que haces contigo mismo y con el mundo. Es la forma más rápida de acumular *Hilos*, pero también la más peligrosa.
 
@@ -27,7 +27,7 @@ En Aicrum, la palabra tiene un poder real. Un **Juramento** es un pacto que hace
 - **La Ruptura:** Si rompes tu juramento, el mundo se vuelve contra ti. Tus *Hilos* se desvanecen instantáneamente y sufres una **Mácula en el Alma** (una consecuencia grave física o espiritual) que te perseguirá hasta que logres una hazaña de redención épica. Los juramentos más sagrados pueden causar la muerte instantánea al romperse, pues dejas de tener "sentido" en la historia del mundo.
     
 
-## 4. Los Estados del Ser
+## ⛓️‍💥 Los Estados del Ser
 
 ### I. Autoconocimiento (El Mundo Interior)
 

@@ -11,7 +11,7 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 | **Gentilicio**          | Loegrenses                                                                    |
 | **Sistema de Gobierno** | Monarquía absoluta                                                            |
 | **Rey**                 | [[Rey Arthur Pendragon]]                                                      |
-| **Religión**            | Custodio del Grial                                                            |
+| **Religión**            | [[Custodios del Grial]]                                                       |
 | **Miembros destacados** | [[Caballeros de la Mesa Redonda]]<br>[[Reina Ginebra]]<br>[[Olwen Pendragon]] |
 | **Bandera**             |                                                                               |
 |                         | ![[CoaMaker.png]]                                                             |
@@ -24,7 +24,7 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 
 El **Reino de Loegria** nació de los restos de una civilización dividida por el uso de la tecnología antigua, Loegria se define por su rechazo a las máquinas y su profundo respeto por la naturaleza.
 
-Durante siglos, el reino ha estado regido por la figura casi mítica del **[[Rey Arthur Pendragon]]**, considerado por muchos como un monarca elegido por las fuerzas naturales para restaurar el equilibrio tras siglos de guerra. Bajo su gobierno, Loegria se convirtió en un bastión de tradiciones, caballería y magia druídica, destacando por su devoción a los ideales de honor, pureza y unidad.
+Durante siglos, el reino ha estado regido por la figura casi mítica de **[[Rey Arthur Pendragon |Arthur Pendragon]]**, considerado por muchos como un monarca elegido por las fuerzas naturales para restaurar el equilibrio tras siglos de guerra. Bajo su gobierno, Loegria se convirtió en un bastión de tradiciones, caballería y naturaleza, destacando por su devoción a los ideales de honor, pureza y unidad.
 
 Sin embargo, el reino no está libre de tensiones internas. Las viejas heridas de la guerra civil, la prohibición de la tecnología y la creciente influencia de órdenes caballerescas y clérigos mantienen a Loegria en un equilibrio inestable.  
 Mientras su legendario rey envejece —o quizá trasciende el paso del tiempo—, el futuro del reino recae sobre su heredero y los conflictos latentes entre las distintas facciones del país.
@@ -87,7 +87,6 @@ Monarquía feudal teocrática de linaje Pendragon.
   Loegria confía en su **terreno accidentado y sus fortalezas colinares**. Las murallas de piedra son gruesas y decoradas con relieves sagrados que se cree repelen la corrupción.  
   Sus defensas se basan en la **resistencia prolongada**, no en la expansión: prefieren dejar que el enemigo se desgaste en los pantanos o montes antes de contraatacar.  
   Los castillos principales están conectados por una red de **torres de señalización** que emplean espejos y fuego bendito en lugar de transmisiones tecnológicas.
-  La capital, [[Camelot]], está rodeada de un triple anillo de murallas y se dice que fue construida sobre el punto donde cayó la primera lágrima de la lluvia sagrada tras el fin de la guerra.
 ---
 ## 💰 Comercio y Economía
 - **Modelo:** Aislacionista, feudal, centrada en recursos de montaña.  
@@ -182,7 +181,7 @@ Solo se comunican con gestos o campanas pequeñas. Se dice que romper el silenci
 #### Enemigos:
 - [[Imperium Deus Ex Machina]]
 #### Hostiles:
-* [[República de Soa'rath (tiene spoilers de vamps)]]
+* [[República de Soa'rath (tiene spoilers de vamps) |República de Soa'rath]]
 * [[Liga Elbil]]
 #### Neutrales:
 - [[Tierras Errantes]]

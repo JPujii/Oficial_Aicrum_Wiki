@@ -13,7 +13,7 @@
 > **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa del Lago  
 > **Religión:** Custodio del Grial  
-> **Arcano Mayor:** El Sumo Sacerdote  
+> **Arcano Mayor:** La Rueda de la Fortuna    
 ---
 ## 🕊️ Historia
 
