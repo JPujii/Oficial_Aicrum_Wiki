@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: oficial.aicrum-wiki.github/io/quartz
+  baseUrl: oficial.aicrum-wiki.github/Oficial_Aicrum_Wiki
   ignorePatterns:
     - private
     - templates
