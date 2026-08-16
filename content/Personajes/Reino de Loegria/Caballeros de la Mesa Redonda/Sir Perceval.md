@@ -1,11 +1,10 @@
-miembro de lo [[Caballeros de la Mesa Redonda]] 
 
 | Imagen |                                             |
 | ------ | ------------------------------------------- |
 |        | ![[un-lee-characters-01-17-01-resized.jpg]] |
 > [!infobox]+ **Sir Perceval**
 > **Epítetos:** La Doncella de Hierro, La Princesa Espadachina   
-> **Fábulas:** Cabellera Dorada  
+> **Fábulas:** El Escudo de los Mudos, La Iniciación Obstinada    
 > **Nacimiento:** XII/XX/VIIDCCLXXX (184 años)  
 > **Nacimiento Terrestre**: 12/20/7780  
 > **Estado actual:** Vivo  
@@ -13,7 +12,7 @@ miembro de lo [[Caballeros de la Mesa Redonda]]
 > **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa de Pelles  
 > **Religión:** Custodio del Grial  
-> **Arcano Mayor:** La Templanza    
+> **Arcano Mayor:** La Estrella    
 ---
 ## 🕊️ Historia
 
@@ -32,7 +31,7 @@ Perceval es directa, apasionada y con un sentido del honor inquebrantable. No so
 
 Bajo su fachada de dureza, sin embargo, se esconde una joven con un enorme corazón y una profunda empatía por los demás. Aunque se burla de Galahad constantemente, es su más feroz protectora; y con Gawain mantiene una amistad de confianza y camaradería a prueba de todo.
 
-A diferencia de muchos caballeros, Perceval no busca gloria ni reconocimiento: lucha por aquellos que no tienen voz, y eso la hace aún más peligrosa.
+A diferencia de muchos caballeros, Perceval no busca gloria ni reconocimiento: lucha por aquellos que no tienen voz.
 
 ---
 ## 👁️ Apariencia

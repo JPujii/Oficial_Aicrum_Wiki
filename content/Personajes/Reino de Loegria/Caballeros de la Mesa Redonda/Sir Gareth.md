@@ -5,6 +5,7 @@
 
 > [!infobox]+ **Sir Gareth**
 > **Epítetos:** El Centinela, El Acero de Bedegraine  
+> **Fábulas:** El Muro de Bedegraine, Diente de Dragón Inquebrantable  
 > **Nacimiento:** II/XI/VIIDCXXXVII (327 años)  
 > **Nacimiento Terrestre**: 4/11/7637  
 > **Estado actual:** Vivo  

@@ -8,7 +8,6 @@ Al nacer o tras un evento transformador, cada individuo que aspira a la grandeza
 - **La Marca del Arcano:** Es tu arquetipo narrativo. Un vinculado a _El Ermitaño_ encontrará poder en el conocimiento y el aislamiento, mientras que uno ligado a _La Justicia_ verá su fuerza aumentada cuando actúe en defensa del equilibrio.
     
 - **Evolución por Fábulas:** A medida que realizas actos significativos, tu leyenda crece. Estas "Fábulas" se graban en tu ser, permitiéndote recurrir a tus éxitos pasados para superar desafíos presentes.
-    
 
 ## 🪡Los Hilos
 
@@ -29,7 +28,7 @@ En Aicrum, la palabra tiene un poder real. Un **Juramento** es un pacto que hace
 
 ## ⛓️‍💥 Los Estados del Ser
 
-### I. Autoconocimiento (El Mundo Interior)
+### I. Mundo Interior (Autoconocimiento)
 
 El primer paso hacia la verdadera grandeza es el descenso al Núcleo. El Autoconocimiento es el poder de solidificar tu percepción de la realidad hasta que se vuelve tangible.
 

@@ -5,7 +5,7 @@
 
 > [!infobox]+ **Sir Galahad**
 > **Epítetos:** El Corazón del Alba, El Valiente  
-> **Fábulas:** Asiento peligroso, Amigo Fiel, Escamas de Dragón, Destinado al Grial  
+> **Fábulas:** El Asiento del Destino, El Rayo que Rasga la Niebla, Sangre de la Promesa Dorada  
 > **Nacimiento:** I/X/VIIDCCCXXVII (137 años)  
 > **Nacimiento Terrestre**: 1/10/7827  
 > **Estado actual:** Vivo  
@@ -18,7 +18,7 @@
 ## 🕊️ Historia
 
 **Pasado**:
-Sir Galahad, hijo de Lancelot, fue admitido en la Mesa Redonda siendo aún un muchacho, tras demostrar una pureza de espíritu y una nobleza inquebrantable incluso ante los desafíos más duros.
+Sir Galahad, hijo de Sir Lancelot, fue admitido en la Mesa Redonda siendo aún un muchacho, tras demostrar una pureza de espíritu y una nobleza inquebrantable incluso ante los desafíos más duros.
 
 Aunque muchos lo vieron como demasiado joven o inexperto para ocupar un asiento tan sagrado, su fe en la justicia y su determinación silenciaron toda duda. Galahad creció bajo la sombra del legado de su padre, pero ha buscado siempre forjar su propio camino, guiado no por el deber sino por la bondad genuina de su corazón.
 
