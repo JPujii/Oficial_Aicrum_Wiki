@@ -6,7 +6,7 @@
 
 > [!infobox]+ **Fior**
 > **Epítetos:** ~~Sin Epíteto~~  
-> **Fábulas:**   
+> **Fábulas:** La rosa que rechazo su jaula    
 > **Nacimiento:** XVII/II/VIIDCCCLXXXVI (64 años)  
 > **Nacimiento Terrestre**: 17/02/7886  
 > **Estado actual:** Vivo  
